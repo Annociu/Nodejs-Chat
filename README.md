@@ -1,8 +1,8 @@
 # Nodejs-Chat
 
 -Backend
-Step1 : cd backend\n
-Step2 : npm run start\n
+Step1 : cd backend
+Step2 : npm run start
 
 -Frontend
 Step1 : npm run dev
